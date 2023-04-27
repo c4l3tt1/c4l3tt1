@@ -1,5 +1,5 @@
 ## 💬  Who Am I? 
-My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
+My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.<br />
 Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.
 
 <br />
