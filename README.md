@@ -1,6 +1,6 @@
 ## 👩‍💻 Who Am I? 
 My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
-Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying. <br />
+Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.
 If you want to read my resume **[click here](https://drive.google.com/file/d/1aBIrULsqtO8dna9XqtXasatxJyOtcBQG/view?usp=sharing)**
 
 <br />
@@ -29,24 +29,30 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 <span><img  style="max-width: 100%;"  alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="SASS"  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="LESS"  src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"></span>
+<span><img  style="max-width: 100%;"  alt="Responsive Design"  src="https://img.shields.io/badge/Responsive%20Design-C13584?style=for-the-badge"></span>
+<span><img  style="max-width: 100%;"  alt="UX/UI"  src="https://img.shields.io/badge/UX/UI-26a69a?style=for-the-badge"></span>
 <span><img  style="max-width: 100%;"  alt="NextJS"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="Javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"></span>
+<span><img  style="max-width: 100%;"  alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
+<span><img  style="max-width: 100%;"  alt="React Native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
 <span><img  style="max-width: 100%;"  alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="Chakra UI"  src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></span>
-<span><img  style="max-width: 100%;"  alt="Git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white"></span>
-<span><img  style="max-width: 100%;"  alt="React Native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
 <span><img  style="max-width: 100%;"  alt="Wordpress"  src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="AntDesign"  src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"></span>
+<span><img  style="max-width: 100%;"  alt="Materialize"  src="https://img.shields.io/badge/Materialize-ee6e73?style=for-the-badge"></span>
 <span><img  style="max-width: 100%;"  alt="Styled Components"  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></span>
-<span><img  style="max-width: 100%;"  alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="TailWind"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="Material UI"  src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="React Router"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="jQuery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
+<span><img  style="max-width: 100%;"  alt="Stitches"  src="https://img.shields.io/badge/Stitches-7C66DC?style=for-the-badge"></span>
+<span><img  style="max-width: 100%;"  alt="PureCSS"  src="https://img.shields.io/badge/PureCSS-448bd0?style=for-the-badge"></span>
 <span><img  style="max-width: 100%;"  alt="NPM"  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="Yarn"  src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></span>
+<span><img  style="max-width: 100%;"  alt="Git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white"></span>
 <span><img  style="max-width: 100%;"  alt="Postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></span>
 </div>
+
 <br />
 
 ### 🎨 Design
@@ -98,11 +104,3 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 <a href = "mailto:c4l3tt1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/c4l3tt1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<br />
-<br />
-<br />
-
-
-
-![Snake animation](https://github.com/c4l3tt1/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
