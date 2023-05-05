@@ -105,4 +105,4 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
