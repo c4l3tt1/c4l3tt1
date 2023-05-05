@@ -1,7 +1,7 @@
 ## 👩‍💻 Who Am I? 
 My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
 Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.<br />
-If you want to read my resume **[click here](https://drive.google.com/file/d/12Df43HTPZ2S8W33DyNlvtUP2MM0PqzVu/view?usp=sharing)**
+If you want to read my resume **[click here](https://drive.google.com/file/d/1DtMffISd_WaA77ZqiTMfXd9Iu13PBjUA/view?usp=sharing)**
 
 <br />
 <br />
