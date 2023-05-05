@@ -2,6 +2,7 @@
 My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
 Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.
 If you want to read my resume **[click here](https://drive.google.com/file/d/1aBIrULsqtO8dna9XqtXasatxJyOtcBQG/view?usp=sharing)**
+
 <br />
 
 ## 💡 Soft Skills 
