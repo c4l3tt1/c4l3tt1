@@ -1,6 +1,6 @@
 ## 👩‍💻 Who Am I? 
 My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
-Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.
+Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying. <br />
 If you want to read my resume **[click here](https://drive.google.com/file/d/1aBIrULsqtO8dna9XqtXasatxJyOtcBQG/view?usp=sharing)**
 
 <br />
@@ -105,4 +105,4 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 
 
 
-![Snake animation](https://github.com/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/c4l3tt1/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
