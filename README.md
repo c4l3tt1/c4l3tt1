@@ -4,6 +4,7 @@ Recently I quit my job and now I'm improve my english, search for new opportunit
 If you want to read my resume **[click here](https://drive.google.com/file/d/1aBIrULsqtO8dna9XqtXasatxJyOtcBQG/view?usp=sharing)**
 
 <br />
+<br />
 
 ## 💡 Soft Skills 
 - Flexibility
@@ -15,6 +16,7 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 - Perseverance
 - Do my best
 
+<br />
 <br />
 
 ##  🚀 Hard Skills 
@@ -73,7 +75,18 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 <span><img  style="max-width: 100%;"  alt="Redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></span>
 </div>
 
+<br />
+<br />
+<br />
 
+
+
+<div id="my-status">
+<a href="https://github.com/c4l3tt1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4l3tt1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br />
 <br />
 <br />
 
@@ -85,3 +98,11 @@ If you want to read my resume **[click here](https://drive.google.com/file/d/1aB
 <a href = "mailto:c4l3tt1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/c4l3tt1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<br />
+<br />
+<br />
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/c4l3tt1/blob/output/github-contribution-grid-snake.svg)
