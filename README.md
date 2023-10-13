@@ -1,7 +1,7 @@
 ## 👩‍💻 Who Am I? 
-My name is Bruna and I'm a **`Front-end Developer`** with more than 5 years of experience.
-Recently I quit my job and now I'm improve my english, search for new opportunities of work while I keep studying.<br />
-If you want to read my resume **[click here](https://drive.google.com/file/d/1DtMffISd_WaA77ZqiTMfXd9Iu13PBjUA/view?usp=sharing)**
+**`Front-end developer`** focused on responsive layouts and UI/UX, with more than 7 years of experience in the area.
+Flexibility, emotional intelligence, good writing and verbal communication. Experience with problem-solving, leadership, giving and receiving feedback and teamwork.
+Eagle eyes for details and layout development.
 
 <br />
 <br />
