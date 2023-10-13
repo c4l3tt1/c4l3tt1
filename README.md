@@ -1,7 +1,7 @@
 ## 👩‍💻 Who Am I? 
 **`Front-end developer`** focused on responsive layouts and UI/UX, with more than 7 years of experience in the area.
-Flexibility, emotional intelligence, good writing and verbal communication. Experience with problem-solving, leadership, giving and receiving feedback and teamwork.
-Eagle eyes for details and layout development.
+Flexibility, emotional intelligence, good writing and verbal communication. 
+Experience with problem-solving, leadership, giving and receiving feedback and teamwork. Eagle eyes for details and layout development.
 
 <br />
 <br />
