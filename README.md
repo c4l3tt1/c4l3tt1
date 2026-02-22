@@ -86,16 +86,6 @@ Eagle eyes for details and layout development.
 <br />
 
 
-
-<div id="my-status">
-<a href="https://github.com/c4l3tt1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4l3tt1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<br />
-<br />
-<br />
-
 ## 📪 Contact 
 
 <div>
